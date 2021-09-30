@@ -17,3 +17,11 @@
 *.zip
 *.tar.gz
 *.rar
+
+ .metadata
+	bin/
+	tmp/
+	*.tmp
+	*.bak
+	*.swp
+	*~.nib

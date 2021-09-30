@@ -7,6 +7,4 @@ public class Fraction {
 		this.nominateur = nominateur;
 		this.denominateur = denominateur;
 	}
-	
-	
 }
